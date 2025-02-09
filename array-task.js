@@ -33,5 +33,7 @@
 // let concat = friends.concat(friend);
 // console.log(concat);
 
-
+let friends = ['rasel', 'hasan', 'kalu', 'malu'];
+let friend = [20, 25, 24, 26, 20];
+console.log(friends.concat(friend));
 
